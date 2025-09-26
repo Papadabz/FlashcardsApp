@@ -1,0 +1,15 @@
+Question,Answer
+"What port is HTTP?",80
+"What port is HTTPS?",443
+"What port is SSH",22
+"What port is DNS?",53
+"What port is DHCP?",67/68
+"What port is FTP?",21
+"What port is RDP?",3389
+"What port is SMB?",445
+"What port is POP3?",110
+"What port is LDAP?",389
+"What port is Telnet?",23
+"What port is SMTP?",25
+"What port is SNMP",161
+"What port is IMAP?",143
